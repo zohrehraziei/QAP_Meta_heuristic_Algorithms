@@ -10,4 +10,4 @@ The quadratic assignment problem (QAP) is one member of the NP-hard class of com
 
 ----------
 
-Code from my paper ["Performance Analysis of Meta-heuristic Algorithms for aQuadratic Assignment Problem"](https://www.researchgate.net/publication/323356988_Performance_Analysis_of_Meta-heuristic_Algorithms_for_QAP).
+Code from my paper ["Performance Analysis of Meta-heuristic Algorithms for aQuadratic Assignment Problem"](https://scholar.google.com/citations?user=_hLMG8QAAAAJ&hl=en#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3D_hLMG8QAAAAJ%26citation_for_view%3D_hLMG8QAAAAJ%3AWF5omc3nYNoC%26tzom%3D240).
